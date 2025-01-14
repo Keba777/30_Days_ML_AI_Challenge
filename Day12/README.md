@@ -1,0 +1,10 @@
+# Day 12: [Task Title Here]
+
+## What I Learned
+- 
+
+## Tasks Completed
+- 
+
+## Resources Used
+- 
